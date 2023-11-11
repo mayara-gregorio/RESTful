@@ -1,12 +1,12 @@
 # Projeto CRUD
 ## Sobre o projeto
-<p>Esta aplicação  realiza operações CRUD (Create, Read, Update e Delete) em usuários.</p>
+Esta aplicação  realiza operações CRUD (Create, Read, Update e Delete) em usuários.
 
 ## Austes do ambiente
 ### Pré-requisitos e como rodar a aplicação:
   1. Node.js instalado
   2. Npm instalado
-  3. Clonagem do repositório: git clone https://github.com/mayara-gregorio/RESTful.git
+  3. Clone o repositório: git clone https://github.com/mayara-gregorio/RESTful.git
   4. Configure o banco de dados: https://neon.tech
   5. Crie um arquivo .env no seu projeto e configure as variáveis de ambiente
   6. Instale o express: npm install express
