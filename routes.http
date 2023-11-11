@@ -1,0 +1,23 @@
+GEt http://localhost:3333/usuario
+
+###
+GET http://localhost:3333/usuario/1
+
+###
+POST http://localhost:3333/usuario 
+Content-Type: application/json
+
+{
+    "nome": "Mayara Gregorio",
+    "email": "mayaragregorio@gmail.com"
+}
+###
+PUT http://localhost:3333/usuario/1
+Content-Type: application/json
+
+{
+    "nome": "Mayara Gregorio",
+    "email": "mayaragregorio@gmail.com"
+}
+###
+DELETE http://localhost:3333/usuario/5 

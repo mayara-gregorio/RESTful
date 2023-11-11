@@ -1,0 +1,24 @@
+{
+  "name": "prova_abilio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.5.2",
+    "@types/node": "^20.9.0",
+    "express": "^4.18.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "prisma": "^5.5.2"
+  }
+}
