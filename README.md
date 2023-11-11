@@ -19,3 +19,6 @@ Esta aplicação  realiza operações CRUD (Create, Read, Update e Delete) em us
   3. Neon: https://neon.tech/
   4. Prisma: https://www.prisma.io
   5. TypeScript: https://www.typescriptlang.org
+
+## Licença
+Licenciado pela ISC: https://opensource.org/license/isc-license-txt
