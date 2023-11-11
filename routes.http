@@ -20,4 +20,4 @@ Content-Type: application/json
     "email": "mayaragregorio@gmail.com"
 }
 ###
-DELETE http://localhost:3333/usuario/5 
+DELETE http://localhost:3333/usuario/2 
